@@ -1,0 +1,1 @@
+I am adding text to this file because i am practicing my git skills for The Odin Project.
